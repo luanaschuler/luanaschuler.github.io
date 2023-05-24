@@ -1,6 +1,6 @@
 export const bio = [
   "Hello there &#128075;",
-  "As a Software Developer, I am continuously developing my expertise and learning new techonologies, demonstrating my commitment to professional growth. I'm a "
+  "As a Software Developer, I am continuously developing my expertise and learning new techonologies, demonstrating my commitment to professional growth."
 ];
 
 export const skills = [
